@@ -27,13 +27,6 @@ Source: [Shakespeare Plays - Kaggle](https://www.kaggle.com/datasets/kewagbln/sh
 
 A deeper 3-layer LSTM variant was trained and compared against the baseline using validation loss, accuracy, and perplexity.
 
-## Performance Metrics
-
-| Model              | Val Loss | Val Accuracy | Perplexity |
-|--------------------|----------|--------------|------------|
-| Baseline (2-LSTM)  | (see notebook output) | | |
-| Deeper (3-LSTM)    | (see notebook output) | | |
-
 ## Sample Output
 
 Generated text examples from multiple seed phrases (e.g., "to be or not to be", "all the world's a stage") are included in the notebook, along with comparisons across temperature settings and model architectures.
